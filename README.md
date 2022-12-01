@@ -1,3 +1,3 @@
-<h1 style = 'color: "red"'>
-   hello
+<h1>
+   HELLO
 </h1>
